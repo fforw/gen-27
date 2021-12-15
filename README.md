@@ -1,3 +1,3 @@
 # gen-27
 
-WIP
+Weighted random methods on a path determined by a double pendulum simulation.
